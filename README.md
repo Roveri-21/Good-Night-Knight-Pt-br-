@@ -10,3 +10,5 @@ Passo a passo:
 - Siga nossa conta no GitHub e, se possível, deixe uma estrelinha.
 - Observação: Certifique-se de realizar um backup dos seus arquivos antes de substituí-los para evitar perda de dados.
 - Bom jogo a todos! 
+
+Videos mostrando como colocar a tradução (https://youtu.be/a5mvb1G74n0)
